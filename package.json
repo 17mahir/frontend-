@@ -6,7 +6,13 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "react": "^18.2.0",
+=======
+    "bootstrap": "^5.2.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0",
+>>>>>>> 06a4b4b5d2b634c9ee10f6cb44175c84f85e2852
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
